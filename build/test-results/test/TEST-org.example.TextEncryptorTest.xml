@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TextEncryptorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-10-01T17:00:55" hostname="ADELWOLF" time="0.07">
+  <properties/>
+  <testcase name="testCaesarDecryptor()" classname="org.example.TextEncryptorTest" time="0.047"/>
+  <testcase name="testCaesarEncryptor()" classname="org.example.TextEncryptorTest" time="0.003"/>
+  <testcase name="testROT13Decryptor()" classname="org.example.TextEncryptorTest" time="0.003"/>
+  <testcase name="testAffineEncryptor()" classname="org.example.TextEncryptorTest" time="0.007"/>
+  <testcase name="testROT13Encryptor()" classname="org.example.TextEncryptorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
